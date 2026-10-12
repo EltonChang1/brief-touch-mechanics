@@ -1,6 +1,6 @@
 # Can a Short Touch Predict a Slide?
 
-**Report updated: 12 October 2026. Status: software verified; real mechanical validation pending.**
+
 
 ## Goal
 
