@@ -1,0 +1,1502 @@
+[
+  {
+    "name": "ABS Plastic/Accel_ABS Plastic.xml",
+    "size_bytes": 12246286,
+    "crc32": 2762393401
+  },
+  {
+    "name": "ABS Plastic/Force_ABS Plastic.xml",
+    "size_bytes": 15196119,
+    "crc32": 3925082943
+  },
+  {
+    "name": "ABS Plastic/Position_ABS Plastic.xml",
+    "size_bytes": 12666176,
+    "crc32": 2228544668
+  },
+  {
+    "name": "Aluminum/Accel_Aluminum.xml",
+    "size_bytes": 12200240,
+    "crc32": 3422140686
+  },
+  {
+    "name": "Aluminum/Force_Aluminum.xml",
+    "size_bytes": 15191213,
+    "crc32": 1785343394
+  },
+  {
+    "name": "Aluminum/Position_Aluminum.xml",
+    "size_bytes": 12654151,
+    "crc32": 1206579437
+  },
+  {
+    "name": "Aluminum Foil/Accel_Aluminum Foil.xml",
+    "size_bytes": 12198365,
+    "crc32": 3112780619
+  },
+  {
+    "name": "Aluminum Foil/Force_Aluminum Foil.xml",
+    "size_bytes": 15194218,
+    "crc32": 2755723986
+  },
+  {
+    "name": "Aluminum Foil/Position_Aluminum Foil.xml",
+    "size_bytes": 12655697,
+    "crc32": 3992334934
+  },
+  {
+    "name": "Artificial Grass/Accel_Artificial Grass.xml",
+    "size_bytes": 12217192,
+    "crc32": 2417886516
+  },
+  {
+    "name": "Artificial Grass/Force_Artificial Grass.xml",
+    "size_bytes": 15202749,
+    "crc32": 2581799308
+  },
+  {
+    "name": "Artificial Grass/Position_Artificial Grass.xml",
+    "size_bytes": 12693108,
+    "crc32": 3184503280
+  },
+  {
+    "name": "Athletic Shirt/Accel_Athletic Shirt.xml",
+    "size_bytes": 12208836,
+    "crc32": 1262016600
+  },
+  {
+    "name": "Athletic Shirt/Force_Athletic Shirt.xml",
+    "size_bytes": 15206428,
+    "crc32": 1732428290
+  },
+  {
+    "name": "Athletic Shirt/Position_Athletic Shirt.xml",
+    "size_bytes": 12695110,
+    "crc32": 2420492936
+  },
+  {
+    "name": "Binder/Accel_Binder.xml",
+    "size_bytes": 12201056,
+    "crc32": 3707208962
+  },
+  {
+    "name": "Binder/Force_Binder.xml",
+    "size_bytes": 15210448,
+    "crc32": 3896752366
+  },
+  {
+    "name": "Binder/Position_Binder.xml",
+    "size_bytes": 12656930,
+    "crc32": 1598626969
+  },
+  {
+    "name": "Blanket/Accel_Blanket.xml",
+    "size_bytes": 12194099,
+    "crc32": 101921681
+  },
+  {
+    "name": "Blanket/Force_Blanket.xml",
+    "size_bytes": 15196577,
+    "crc32": 3254373557
+  },
+  {
+    "name": "Blanket/Position_Blanket.xml",
+    "size_bytes": 12680434,
+    "crc32": 1458041516
+  },
+  {
+    "name": "Book/Accel_Book.xml",
+    "size_bytes": 12198401,
+    "crc32": 4094337990
+  },
+  {
+    "name": "Book/Force_Book.xml",
+    "size_bytes": 15190742,
+    "crc32": 1108264191
+  },
+  {
+    "name": "Book/Position_Book.xml",
+    "size_bytes": 12676091,
+    "crc32": 651105448
+  },
+  {
+    "name": "Brick 1/Accel_Brick 1.xml",
+    "size_bytes": 12326795,
+    "crc32": 60517815
+  },
+  {
+    "name": "Brick 1/Force_Brick 1.xml",
+    "size_bytes": 15206922,
+    "crc32": 1212274990
+  },
+  {
+    "name": "Brick 1/Position_Brick 1.xml",
+    "size_bytes": 12656519,
+    "crc32": 2707721094
+  },
+  {
+    "name": "Brick 2/Accel_Brick 2.xml",
+    "size_bytes": 12252978,
+    "crc32": 780781577
+  },
+  {
+    "name": "Brick 2/Force_Brick 2.xml",
+    "size_bytes": 15205437,
+    "crc32": 2740901635
+  },
+  {
+    "name": "Brick 2/Position_Brick 2.xml",
+    "size_bytes": 12558358,
+    "crc32": 241014020
+  },
+  {
+    "name": "Bubble Envelope/Accel_Bubble Envelope.xml",
+    "size_bytes": 12198998,
+    "crc32": 3795039391
+  },
+  {
+    "name": "Bubble Envelope/Force_Bubble Envelope.xml",
+    "size_bytes": 15196516,
+    "crc32": 63915278
+  },
+  {
+    "name": "Bubble Envelope/Position_Bubble Envelope.xml",
+    "size_bytes": 12659116,
+    "crc32": 3785468315
+  },
+  {
+    "name": "Candle/Accel_Candle.xml",
+    "size_bytes": 12204482,
+    "crc32": 2202873158
+  },
+  {
+    "name": "Candle/Force_Candle.xml",
+    "size_bytes": 15200092,
+    "crc32": 17506318
+  },
+  {
+    "name": "Candle/Position_Candle.xml",
+    "size_bytes": 12621436,
+    "crc32": 1460471974
+  },
+  {
+    "name": "Canvas 1/Accel_Canvas 1.xml",
+    "size_bytes": 12205082,
+    "crc32": 1185858759
+  },
+  {
+    "name": "Canvas 1/Force_Canvas 1.xml",
+    "size_bytes": 15192478,
+    "crc32": 2274969116
+  },
+  {
+    "name": "Canvas 1/Position_Canvas 1.xml",
+    "size_bytes": 12669403,
+    "crc32": 1696707616
+  },
+  {
+    "name": "Canvas 2/Accel_Canvas 2.xml",
+    "size_bytes": 12201614,
+    "crc32": 2915253044
+  },
+  {
+    "name": "Canvas 2/Force_Canvas 2.xml",
+    "size_bytes": 15198772,
+    "crc32": 697064169
+  },
+  {
+    "name": "Canvas 2/Position_Canvas 2.xml",
+    "size_bytes": 12682921,
+    "crc32": 399539856
+  },
+  {
+    "name": "Canvas 3/Accel_Canvas 3.xml",
+    "size_bytes": 12200461,
+    "crc32": 2416789465
+  },
+  {
+    "name": "Canvas 3/Force_Canvas 3.xml",
+    "size_bytes": 15196394,
+    "crc32": 3122385509
+  },
+  {
+    "name": "Canvas 3/Position_Canvas 3.xml",
+    "size_bytes": 12651847,
+    "crc32": 457130052
+  },
+  {
+    "name": "Carbon Fiber/Accel_Carbon Fiber.xml",
+    "size_bytes": 12212254,
+    "crc32": 3852470534
+  },
+  {
+    "name": "Carbon Fiber/Force_Carbon Fiber.xml",
+    "size_bytes": 15193502,
+    "crc32": 2987567811
+  },
+  {
+    "name": "Carbon Fiber/Position_Carbon Fiber.xml",
+    "size_bytes": 12645702,
+    "crc32": 981271297
+  },
+  {
+    "name": "Cardboard/Accel_Cardboard.xml",
+    "size_bytes": 12204283,
+    "crc32": 2059298866
+  },
+  {
+    "name": "Cardboard/Force_Cardboard.xml",
+    "size_bytes": 15190305,
+    "crc32": 3704776839
+  },
+  {
+    "name": "Cardboard/Position_Cardboard.xml",
+    "size_bytes": 12651138,
+    "crc32": 3711046306
+  },
+  {
+    "name": "Carpet 1/Accel_Carpet 1.xml",
+    "size_bytes": 12231303,
+    "crc32": 2968353871
+  },
+  {
+    "name": "Carpet 1/Force_Carpet 1.xml",
+    "size_bytes": 15195260,
+    "crc32": 2782401061
+  },
+  {
+    "name": "Carpet 1/Position_Carpet 1.xml",
+    "size_bytes": 12671271,
+    "crc32": 372865806
+  },
+  {
+    "name": "Carpet 2/Accel_Carpet 2.xml",
+    "size_bytes": 12215858,
+    "crc32": 135861933
+  },
+  {
+    "name": "Carpet 2/Force_Carpet 2.xml",
+    "size_bytes": 15202255,
+    "crc32": 3307361861
+  },
+  {
+    "name": "Carpet 2/Position_Carpet 2.xml",
+    "size_bytes": 12657965,
+    "crc32": 3340836629
+  },
+  {
+    "name": "Carpet 3/Accel_Carpet 3.xml",
+    "size_bytes": 12204146,
+    "crc32": 181418596
+  },
+  {
+    "name": "Carpet 3/Force_Carpet 3.xml",
+    "size_bytes": 15199202,
+    "crc32": 2186207784
+  },
+  {
+    "name": "Carpet 3/Position_Carpet 3.xml",
+    "size_bytes": 12680363,
+    "crc32": 1903119048
+  },
+  {
+    "name": "Carpet 4/Accel_Carpet 4.xml",
+    "size_bytes": 12233027,
+    "crc32": 4166170961
+  },
+  {
+    "name": "Carpet 4/Force_Carpet 4.xml",
+    "size_bytes": 15199576,
+    "crc32": 40413654
+  },
+  {
+    "name": "Carpet 4/Position_Carpet 4.xml",
+    "size_bytes": 12673236,
+    "crc32": 1799470780
+  },
+  {
+    "name": "CD Sleeve/Accel_CD Sleeve.xml",
+    "size_bytes": 12208888,
+    "crc32": 3725521053
+  },
+  {
+    "name": "CD Sleeve/Force_CD Sleeve.xml",
+    "size_bytes": 15194669,
+    "crc32": 848728436
+  },
+  {
+    "name": "CD Sleeve/Position_CD Sleeve.xml",
+    "size_bytes": 12686828,
+    "crc32": 946596324
+  },
+  {
+    "name": "Ceramic/Accel_Ceramic.xml",
+    "size_bytes": 12200194,
+    "crc32": 2951270836
+  },
+  {
+    "name": "Ceramic/Force_Ceramic.xml",
+    "size_bytes": 15190736,
+    "crc32": 2676692776
+  },
+  {
+    "name": "Ceramic/Position_Ceramic.xml",
+    "size_bytes": 12656005,
+    "crc32": 154101513
+  },
+  {
+    "name": "Coffee Filter/Accel_Coffee Filter.xml",
+    "size_bytes": 12204861,
+    "crc32": 877755231
+  },
+  {
+    "name": "Coffee Filter/Force_Coffee Filter.xml",
+    "size_bytes": 15188911,
+    "crc32": 3662456510
+  },
+  {
+    "name": "Coffee Filter/Position_Coffee Filter.xml",
+    "size_bytes": 12657736,
+    "crc32": 3169844233
+  },
+  {
+    "name": "Cork/Accel_Cork.xml",
+    "size_bytes": 12207421,
+    "crc32": 2019977193
+  },
+  {
+    "name": "Cork/Force_Cork.xml",
+    "size_bytes": 15203643,
+    "crc32": 4231792797
+  },
+  {
+    "name": "Cork/Position_Cork.xml",
+    "size_bytes": 12665269,
+    "crc32": 407252848
+  },
+  {
+    "name": "Cotton/Accel_Cotton.xml",
+    "size_bytes": 12200370,
+    "crc32": 4067029561
+  },
+  {
+    "name": "Cotton/Force_Cotton.xml",
+    "size_bytes": 15190693,
+    "crc32": 1476851178
+  },
+  {
+    "name": "Cotton/Position_Cotton.xml",
+    "size_bytes": 12652388,
+    "crc32": 2932066328
+  },
+  {
+    "name": "Denim/Accel_Denim.xml",
+    "size_bytes": 12198250,
+    "crc32": 101661307
+  },
+  {
+    "name": "Denim/Force_Denim.xml",
+    "size_bytes": 15199328,
+    "crc32": 1672986126
+  },
+  {
+    "name": "Denim/Position_Denim.xml",
+    "size_bytes": 12666485,
+    "crc32": 531419491
+  },
+  {
+    "name": "Dot Paper/Accel_Dot Paper.xml",
+    "size_bytes": 12213700,
+    "crc32": 3920748782
+  },
+  {
+    "name": "Dot Paper/Force_Dot Paper.xml",
+    "size_bytes": 15204467,
+    "crc32": 213030791
+  },
+  {
+    "name": "Dot Paper/Position_Dot Paper.xml",
+    "size_bytes": 12652881,
+    "crc32": 3572387129
+  },
+  {
+    "name": "EPDM Foam/Accel_EPDM Foam.xml",
+    "size_bytes": 12196757,
+    "crc32": 2770276905
+  },
+  {
+    "name": "EPDM Foam/Force_EPDM Foam.xml",
+    "size_bytes": 15202857,
+    "crc32": 377033087
+  },
+  {
+    "name": "EPDM Foam/Position_EPDM Foam.xml",
+    "size_bytes": 12663210,
+    "crc32": 1854221215
+  },
+  {
+    "name": "Felt/Accel_Felt.xml",
+    "size_bytes": 12204485,
+    "crc32": 1535187693
+  },
+  {
+    "name": "Felt/Force_Felt.xml",
+    "size_bytes": 15197216,
+    "crc32": 1154285972
+  },
+  {
+    "name": "Felt/Position_Felt.xml",
+    "size_bytes": 12666635,
+    "crc32": 396708462
+  },
+  {
+    "name": "File Portfolio/Accel_File Portfolio.xml",
+    "size_bytes": 12206489,
+    "crc32": 1632736414
+  },
+  {
+    "name": "File Portfolio/Force_File Portfolio.xml",
+    "size_bytes": 15202600,
+    "crc32": 2352732847
+  },
+  {
+    "name": "File Portfolio/Position_File Portfolio.xml",
+    "size_bytes": 12668390,
+    "crc32": 2257074697
+  },
+  {
+    "name": "Flannel/Accel_Flannel.xml",
+    "size_bytes": 12201981,
+    "crc32": 879074687
+  },
+  {
+    "name": "Flannel/Force_Flannel.xml",
+    "size_bytes": 15191300,
+    "crc32": 67790404
+  },
+  {
+    "name": "Flannel/Position_Flannel.xml",
+    "size_bytes": 12666320,
+    "crc32": 2840779355
+  },
+  {
+    "name": "Fleece/Accel_Fleece.xml",
+    "size_bytes": 12201293,
+    "crc32": 4126982407
+  },
+  {
+    "name": "Fleece/Force_Fleece.xml",
+    "size_bytes": 15198016,
+    "crc32": 3836541146
+  },
+  {
+    "name": "Fleece/Position_Fleece.xml",
+    "size_bytes": 12676022,
+    "crc32": 632040390
+  },
+  {
+    "name": "Floortile 1/Accel_Floortile 1.xml",
+    "size_bytes": 12216619,
+    "crc32": 1845282908
+  },
+  {
+    "name": "Floortile 1/Force_Floortile 1.xml",
+    "size_bytes": 15194051,
+    "crc32": 2166738555
+  },
+  {
+    "name": "Floortile 1/Position_Floortile 1.xml",
+    "size_bytes": 12656555,
+    "crc32": 2370311688
+  },
+  {
+    "name": "Floortile 2/Accel_Floortile 2.xml",
+    "size_bytes": 12236176,
+    "crc32": 3993570023
+  },
+  {
+    "name": "Floortile 2/Force_Floortile 2.xml",
+    "size_bytes": 15194013,
+    "crc32": 3528058452
+  },
+  {
+    "name": "Floortile 2/Position_Floortile 2.xml",
+    "size_bytes": 12665027,
+    "crc32": 1267660099
+  },
+  {
+    "name": "Floortile 3/Accel_Floortile 3.xml",
+    "size_bytes": 12229438,
+    "crc32": 2151037481
+  },
+  {
+    "name": "Floortile 3/Force_Floortile 3.xml",
+    "size_bytes": 15197260,
+    "crc32": 200680154
+  },
+  {
+    "name": "Floortile 3/Position_Floortile 3.xml",
+    "size_bytes": 12661424,
+    "crc32": 1419865998
+  },
+  {
+    "name": "Floortile 4/Accel_Floortile 4.xml",
+    "size_bytes": 12236725,
+    "crc32": 1236236677
+  },
+  {
+    "name": "Floortile 4/Force_Floortile 4.xml",
+    "size_bytes": 15196051,
+    "crc32": 2341635711
+  },
+  {
+    "name": "Floortile 4/Position_Floortile 4.xml",
+    "size_bytes": 12669557,
+    "crc32": 1538936203
+  },
+  {
+    "name": "Floortile 5/Accel_Floortile 5.xml",
+    "size_bytes": 12223071,
+    "crc32": 3790369285
+  },
+  {
+    "name": "Floortile 5/Force_Floortile 5.xml",
+    "size_bytes": 15196485,
+    "crc32": 752664358
+  },
+  {
+    "name": "Floortile 5/Position_Floortile 5.xml",
+    "size_bytes": 12650496,
+    "crc32": 4003291062
+  },
+  {
+    "name": "Floortile 6/Accel_Floortile 6.xml",
+    "size_bytes": 12214331,
+    "crc32": 3003927284
+  },
+  {
+    "name": "Floortile 6/Force_Floortile 6.xml",
+    "size_bytes": 15198225,
+    "crc32": 3599635570
+  },
+  {
+    "name": "Floortile 6/Position_Floortile 6.xml",
+    "size_bytes": 12677411,
+    "crc32": 633707400
+  },
+  {
+    "name": "Floortile 7/Accel_Floortile 7.xml",
+    "size_bytes": 12207546,
+    "crc32": 1427518265
+  },
+  {
+    "name": "Floortile 7/Force_Floortile 7.xml",
+    "size_bytes": 15195589,
+    "crc32": 2575421323
+  },
+  {
+    "name": "Floortile 7/Position_Floortile 7.xml",
+    "size_bytes": 12657313,
+    "crc32": 2251424101
+  },
+  {
+    "name": "Folder/Accel_Folder.xml",
+    "size_bytes": 12201739,
+    "crc32": 2354811948
+  },
+  {
+    "name": "Folder/Force_Folder.xml",
+    "size_bytes": 15198037,
+    "crc32": 1296844974
+  },
+  {
+    "name": "Folder/Position_Folder.xml",
+    "size_bytes": 12660139,
+    "crc32": 3549344252
+  },
+  {
+    "name": "Frosted Acrylic/Accel_Frosted Acrylic.xml",
+    "size_bytes": 12203936,
+    "crc32": 1539402476
+  },
+  {
+    "name": "Frosted Acrylic/Force_Frosted Acrylic.xml",
+    "size_bytes": 15192001,
+    "crc32": 93971674
+  },
+  {
+    "name": "Frosted Acrylic/Position_Frosted Acrylic.xml",
+    "size_bytes": 12661297,
+    "crc32": 2599009834
+  },
+  {
+    "name": "Gift Box/Accel_Gift Box.xml",
+    "size_bytes": 12204311,
+    "crc32": 2502568017
+  },
+  {
+    "name": "Gift Box/Force_Gift Box.xml",
+    "size_bytes": 15195190,
+    "crc32": 3398644678
+  },
+  {
+    "name": "Gift Box/Position_Gift Box.xml",
+    "size_bytes": 12654856,
+    "crc32": 2193217683
+  },
+  {
+    "name": "Glitter Paper/Accel_Glitter Paper.xml",
+    "size_bytes": 12218287,
+    "crc32": 2672500330
+  },
+  {
+    "name": "Glitter Paper/Force_Glitter Paper.xml",
+    "size_bytes": 15200309,
+    "crc32": 726390772
+  },
+  {
+    "name": "Glitter Paper/Position_Glitter Paper.xml",
+    "size_bytes": 12664079,
+    "crc32": 4124266980
+  },
+  {
+    "name": "Greeting Card/Accel_Greeting Card.xml",
+    "size_bytes": 12205770,
+    "crc32": 144533339
+  },
+  {
+    "name": "Greeting Card/Force_Greeting Card.xml",
+    "size_bytes": 15197470,
+    "crc32": 1859444723
+  },
+  {
+    "name": "Greeting Card/Position_Greeting Card.xml",
+    "size_bytes": 12669771,
+    "crc32": 3884456601
+  },
+  {
+    "name": "Leather 1 Back/Accel_Leather 1 Back.xml",
+    "size_bytes": 12202732,
+    "crc32": 2088067789
+  },
+  {
+    "name": "Leather 1 Back/Force_Leather 1 Back.xml",
+    "size_bytes": 15198898,
+    "crc32": 2390530511
+  },
+  {
+    "name": "Leather 1 Back/Position_Leather 1 Back.xml",
+    "size_bytes": 12668141,
+    "crc32": 3894531816
+  },
+  {
+    "name": "Leather 1 Front/Accel_Leather 1 Front.xml",
+    "size_bytes": 12199311,
+    "crc32": 3489173485
+  },
+  {
+    "name": "Leather 1 Front/Force_Leather 1 Front.xml",
+    "size_bytes": 15189284,
+    "crc32": 2985168344
+  },
+  {
+    "name": "Leather 1 Front/Position_Leather 1 Front.xml",
+    "size_bytes": 12657280,
+    "crc32": 2471441514
+  },
+  {
+    "name": "Leather 2 Back/Accel_Leather 2 Back.xml",
+    "size_bytes": 12205180,
+    "crc32": 3615523086
+  },
+  {
+    "name": "Leather 2 Back/Force_Leather 2 Back.xml",
+    "size_bytes": 15201935,
+    "crc32": 4272930649
+  },
+  {
+    "name": "Leather 2 Back/Position_Leather 2 Back.xml",
+    "size_bytes": 12676522,
+    "crc32": 2480069774
+  },
+  {
+    "name": "Leather 2 Front/Accel_Leather 2 Front.xml",
+    "size_bytes": 12203211,
+    "crc32": 2203244555
+  },
+  {
+    "name": "Leather 2 Front/Force_Leather 2 Front.xml",
+    "size_bytes": 15192614,
+    "crc32": 664725986
+  },
+  {
+    "name": "Leather 2 Front/Position_Leather 2 Front.xml",
+    "size_bytes": 12668043,
+    "crc32": 3379798593
+  },
+  {
+    "name": "Masking Tape/Accel_Masking Tape.xml",
+    "size_bytes": 12205975,
+    "crc32": 2846486675
+  },
+  {
+    "name": "Masking Tape/Force_Masking Tape.xml",
+    "size_bytes": 15195758,
+    "crc32": 2885802471
+  },
+  {
+    "name": "Masking Tape/Position_Masking Tape.xml",
+    "size_bytes": 12664468,
+    "crc32": 2703733698
+  },
+  {
+    "name": "MDF/Accel_MDF.xml",
+    "size_bytes": 12202247,
+    "crc32": 132868040
+  },
+  {
+    "name": "MDF/Force_MDF.xml",
+    "size_bytes": 15199094,
+    "crc32": 1462303801
+  },
+  {
+    "name": "MDF/Position_MDF.xml",
+    "size_bytes": 12677223,
+    "crc32": 427230129
+  },
+  {
+    "name": "Metal Mesh/Accel_Metal Mesh.xml",
+    "size_bytes": 12257831,
+    "crc32": 1675238490
+  },
+  {
+    "name": "Metal Mesh/Force_Metal Mesh.xml",
+    "size_bytes": 15179434,
+    "crc32": 2089783308
+  },
+  {
+    "name": "Metal Mesh/Position_Metal Mesh.xml",
+    "size_bytes": 12747766,
+    "crc32": 2253552716
+  },
+  {
+    "name": "Metal Shelving/Accel_Metal Shelving.xml",
+    "size_bytes": 12200384,
+    "crc32": 1790339761
+  },
+  {
+    "name": "Metal Shelving/Force_Metal Shelving.xml",
+    "size_bytes": 15200568,
+    "crc32": 1947186487
+  },
+  {
+    "name": "Metal Shelving/Position_Metal Shelving.xml",
+    "size_bytes": 12648960,
+    "crc32": 3775148355
+  },
+  {
+    "name": "Microfiber Cloth/Accel_Microfiber Cloth.xml",
+    "size_bytes": 12217577,
+    "crc32": 3786132539
+  },
+  {
+    "name": "Microfiber Cloth/Force_Microfiber Cloth.xml",
+    "size_bytes": 15190547,
+    "crc32": 2741447780
+  },
+  {
+    "name": "Microfiber Cloth/Position_Microfiber Cloth.xml",
+    "size_bytes": 12671109,
+    "crc32": 2212518296
+  },
+  {
+    "name": "Nitrile Glove/Accel_Nitrile Glove.xml",
+    "size_bytes": 12199369,
+    "crc32": 2435654652
+  },
+  {
+    "name": "Nitrile Glove/Force_Nitrile Glove.xml",
+    "size_bytes": 15195139,
+    "crc32": 1557967072
+  },
+  {
+    "name": "Nitrile Glove/Position_Nitrile Glove.xml",
+    "size_bytes": 12683402,
+    "crc32": 1518586745
+  },
+  {
+    "name": "Nylon Bag/Accel_Nylon Bag.xml",
+    "size_bytes": 12200229,
+    "crc32": 471090515
+  },
+  {
+    "name": "Nylon Bag/Force_Nylon Bag.xml",
+    "size_bytes": 15193661,
+    "crc32": 3895473668
+  },
+  {
+    "name": "Nylon Bag/Position_Nylon Bag.xml",
+    "size_bytes": 12670530,
+    "crc32": 3958061952
+  },
+  {
+    "name": "Nylon Mesh/Accel_Nylon Mesh.xml",
+    "size_bytes": 12238100,
+    "crc32": 1298161975
+  },
+  {
+    "name": "Nylon Mesh/Force_Nylon Mesh.xml",
+    "size_bytes": 15188264,
+    "crc32": 2168655817
+  },
+  {
+    "name": "Nylon Mesh/Position_Nylon Mesh.xml",
+    "size_bytes": 12664018,
+    "crc32": 1851252161
+  },
+  {
+    "name": "Painted Brick/Accel_Painted Brick.xml",
+    "size_bytes": 12293983,
+    "crc32": 2738164278
+  },
+  {
+    "name": "Painted Brick/Force_Painted Brick.xml",
+    "size_bytes": 15197373,
+    "crc32": 125510536
+  },
+  {
+    "name": "Painted Brick/Position_Painted Brick.xml",
+    "size_bytes": 12671543,
+    "crc32": 4199937472
+  },
+  {
+    "name": "Painted Wood/Accel_Painted Wood.xml",
+    "size_bytes": 12206637,
+    "crc32": 2907136082
+  },
+  {
+    "name": "Painted Wood/Force_Painted Wood.xml",
+    "size_bytes": 15196925,
+    "crc32": 1736452581
+  },
+  {
+    "name": "Painted Wood/Position_Painted Wood.xml",
+    "size_bytes": 12675724,
+    "crc32": 1225580437
+  },
+  {
+    "name": "Paper Bag/Accel_Paper Bag.xml",
+    "size_bytes": 12204474,
+    "crc32": 2736916280
+  },
+  {
+    "name": "Paper Bag/Force_Paper Bag.xml",
+    "size_bytes": 15195706,
+    "crc32": 890407003
+  },
+  {
+    "name": "Paper Bag/Position_Paper Bag.xml",
+    "size_bytes": 12662655,
+    "crc32": 1022145262
+  },
+  {
+    "name": "Paper Plate 1/Accel_Paper Plate 1.xml",
+    "size_bytes": 12203097,
+    "crc32": 3633205871
+  },
+  {
+    "name": "Paper Plate 1/Force_Paper Plate 1.xml",
+    "size_bytes": 15192666,
+    "crc32": 2749119382
+  },
+  {
+    "name": "Paper Plate 1/Position_Paper Plate 1.xml",
+    "size_bytes": 12655794,
+    "crc32": 3112935012
+  },
+  {
+    "name": "Paper Plate 2/Accel_Paper Plate 2.xml",
+    "size_bytes": 12204079,
+    "crc32": 1803018934
+  },
+  {
+    "name": "Paper Plate 2/Force_Paper Plate 2.xml",
+    "size_bytes": 15192934,
+    "crc32": 4152735981
+  },
+  {
+    "name": "Paper Plate 2/Position_Paper Plate 2.xml",
+    "size_bytes": 12655631,
+    "crc32": 2869558999
+  },
+  {
+    "name": "Pink Foam/Accel_Pink Foam.xml",
+    "size_bytes": 12200607,
+    "crc32": 1241000605
+  },
+  {
+    "name": "Pink Foam/Force_Pink Foam.xml",
+    "size_bytes": 15197778,
+    "crc32": 1972292625
+  },
+  {
+    "name": "Pink Foam/Position_Pink Foam.xml",
+    "size_bytes": 12691786,
+    "crc32": 3058281476
+  },
+  {
+    "name": "Plastic Mesh 1/Accel_Plastic Mesh 1.xml",
+    "size_bytes": 12228047,
+    "crc32": 4160593202
+  },
+  {
+    "name": "Plastic Mesh 1/Force_Plastic Mesh 1.xml",
+    "size_bytes": 15197908,
+    "crc32": 1471724422
+  },
+  {
+    "name": "Plastic Mesh 1/Position_Plastic Mesh 1.xml",
+    "size_bytes": 12657333,
+    "crc32": 4037879755
+  },
+  {
+    "name": "Plastic Mesh 2/Accel_Plastic Mesh 2.xml",
+    "size_bytes": 12227825,
+    "crc32": 2658924617
+  },
+  {
+    "name": "Plastic Mesh 2/Force_Plastic Mesh 2.xml",
+    "size_bytes": 15222884,
+    "crc32": 3991480527
+  },
+  {
+    "name": "Plastic Mesh 2/Position_Plastic Mesh 2.xml",
+    "size_bytes": 12669459,
+    "crc32": 2527689739
+  },
+  {
+    "name": "Playing Card/Accel_Playing Card.xml",
+    "size_bytes": 12204359,
+    "crc32": 347097010
+  },
+  {
+    "name": "Playing Card/Force_Playing Card.xml",
+    "size_bytes": 15194948,
+    "crc32": 899493137
+  },
+  {
+    "name": "Playing Card/Position_Playing Card.xml",
+    "size_bytes": 12641952,
+    "crc32": 3202630797
+  },
+  {
+    "name": "Pleather/Accel_Pleather.xml",
+    "size_bytes": 12200308,
+    "crc32": 2416568320
+  },
+  {
+    "name": "Pleather/Force_Pleather.xml",
+    "size_bytes": 15196909,
+    "crc32": 167467613
+  },
+  {
+    "name": "Pleather/Position_Pleather.xml",
+    "size_bytes": 12673165,
+    "crc32": 3195623108
+  },
+  {
+    "name": "Polyethylene Foam/Accel_Polyethylene Foam.xml",
+    "size_bytes": 12201539,
+    "crc32": 664313300
+  },
+  {
+    "name": "Polyethylene Foam/Force_Polyethylene Foam.xml",
+    "size_bytes": 15198200,
+    "crc32": 1534654843
+  },
+  {
+    "name": "Polyethylene Foam/Position_Polyethylene Foam.xml",
+    "size_bytes": 12658809,
+    "crc32": 2869075358
+  },
+  {
+    "name": "Portfolio Cover/Accel_Portfolio Cover.xml",
+    "size_bytes": 12200794,
+    "crc32": 820453874
+  },
+  {
+    "name": "Portfolio Cover/Force_Portfolio Cover.xml",
+    "size_bytes": 15202201,
+    "crc32": 809518340
+  },
+  {
+    "name": "Portfolio Cover/Position_Portfolio Cover.xml",
+    "size_bytes": 12666740,
+    "crc32": 681386667
+  },
+  {
+    "name": "Resin Carbon Fiber/Accel_Resin Carbon Fiber.xml",
+    "size_bytes": 12207583,
+    "crc32": 2232311827
+  },
+  {
+    "name": "Resin Carbon Fiber/Force_Resin Carbon Fiber.xml",
+    "size_bytes": 15181934,
+    "crc32": 176887294
+  },
+  {
+    "name": "Resin Carbon Fiber/Position_Resin Carbon Fiber.xml",
+    "size_bytes": 12600331,
+    "crc32": 1125935555
+  },
+  {
+    "name": "Resume Paper/Accel_Resume Paper.xml",
+    "size_bytes": 12202613,
+    "crc32": 3525829617
+  },
+  {
+    "name": "Resume Paper/Force_Resume Paper.xml",
+    "size_bytes": 15197786,
+    "crc32": 1345056372
+  },
+  {
+    "name": "Resume Paper/Position_Resume Paper.xml",
+    "size_bytes": 12648277,
+    "crc32": 2198983472
+  },
+  {
+    "name": "Sandpaper 100/Accel_Sandpaper 100.xml",
+    "size_bytes": 12253911,
+    "crc32": 3662179079
+  },
+  {
+    "name": "Sandpaper 100/Force_Sandpaper 100.xml",
+    "size_bytes": 15199555,
+    "crc32": 2356660766
+  },
+  {
+    "name": "Sandpaper 100/Position_Sandpaper 100.xml",
+    "size_bytes": 12663760,
+    "crc32": 2638137546
+  },
+  {
+    "name": "Sandpaper 220/Accel_Sandpaper 220.xml",
+    "size_bytes": 12211971,
+    "crc32": 1865266067
+  },
+  {
+    "name": "Sandpaper 220/Force_Sandpaper 220.xml",
+    "size_bytes": 15198866,
+    "crc32": 848515772
+  },
+  {
+    "name": "Sandpaper 220/Position_Sandpaper 220.xml",
+    "size_bytes": 12636226,
+    "crc32": 1664490898
+  },
+  {
+    "name": "Sandpaper 320/Accel_Sandpaper 320.xml",
+    "size_bytes": 12201586,
+    "crc32": 440173781
+  },
+  {
+    "name": "Sandpaper 320/Force_Sandpaper 320.xml",
+    "size_bytes": 15198944,
+    "crc32": 2343286094
+  },
+  {
+    "name": "Sandpaper 320/Position_Sandpaper 320.xml",
+    "size_bytes": 12652027,
+    "crc32": 325901366
+  },
+  {
+    "name": "Sandpaper Aluminum Oxide/Accel_Sandpaper Aluminum Oxide.xml",
+    "size_bytes": 12234574,
+    "crc32": 2123704328
+  },
+  {
+    "name": "Sandpaper Aluminum Oxide/Force_Sandpaper Aluminum Oxide.xml",
+    "size_bytes": 15194694,
+    "crc32": 2237877991
+  },
+  {
+    "name": "Sandpaper Aluminum Oxide/Position_Sandpaper Aluminum Oxide.xml",
+    "size_bytes": 12655611,
+    "crc32": 766643818
+  },
+  {
+    "name": "Scouring Pad/Accel_Scouring Pad.xml",
+    "size_bytes": 12198469,
+    "crc32": 1446874282
+  },
+  {
+    "name": "Scouring Pad/Force_Scouring Pad.xml",
+    "size_bytes": 15198015,
+    "crc32": 3743003210
+  },
+  {
+    "name": "Scouring Pad/Position_Scouring Pad.xml",
+    "size_bytes": 12645727,
+    "crc32": 51813259
+  },
+  {
+    "name": "Silk 1/Accel_Silk 1.xml",
+    "size_bytes": 12201473,
+    "crc32": 404973960
+  },
+  {
+    "name": "Silk 1/Force_Silk 1.xml",
+    "size_bytes": 15189485,
+    "crc32": 2426232237
+  },
+  {
+    "name": "Silk 1/Position_Silk 1.xml",
+    "size_bytes": 12663588,
+    "crc32": 2344998190
+  },
+  {
+    "name": "Silk 2/Accel_Silk 2.xml",
+    "size_bytes": 12199617,
+    "crc32": 1280230588
+  },
+  {
+    "name": "Silk 2/Force_Silk 2.xml",
+    "size_bytes": 15200572,
+    "crc32": 1365524739
+  },
+  {
+    "name": "Silk 2/Position_Silk 2.xml",
+    "size_bytes": 12681477,
+    "crc32": 3213918792
+  },
+  {
+    "name": "Stained Wood/Accel_Stained Wood.xml",
+    "size_bytes": 12205890,
+    "crc32": 135680584
+  },
+  {
+    "name": "Stained Wood/Force_Stained Wood.xml",
+    "size_bytes": 15200685,
+    "crc32": 2502606940
+  },
+  {
+    "name": "Stained Wood/Position_Stained Wood.xml",
+    "size_bytes": 12671576,
+    "crc32": 3152720466
+  },
+  {
+    "name": "Stone Tile 1/Accel_Stone Tile 1.xml",
+    "size_bytes": 12259581,
+    "crc32": 2357214162
+  },
+  {
+    "name": "Stone Tile 1/Force_Stone Tile 1.xml",
+    "size_bytes": 15206513,
+    "crc32": 1143993985
+  },
+  {
+    "name": "Stone Tile 1/Position_Stone Tile 1.xml",
+    "size_bytes": 12674628,
+    "crc32": 929184797
+  },
+  {
+    "name": "Stone Tile 2/Accel_Stone Tile 2.xml",
+    "size_bytes": 12254383,
+    "crc32": 280270801
+  },
+  {
+    "name": "Stone Tile 2/Force_Stone Tile 2.xml",
+    "size_bytes": 15202464,
+    "crc32": 3758805582
+  },
+  {
+    "name": "Stone Tile 2/Position_Stone Tile 2.xml",
+    "size_bytes": 12665129,
+    "crc32": 591937667
+  },
+  {
+    "name": "Styrofoam/Accel_Styrofoam.xml",
+    "size_bytes": 12203171,
+    "crc32": 432184766
+  },
+  {
+    "name": "Styrofoam/Force_Styrofoam.xml",
+    "size_bytes": 15202070,
+    "crc32": 1770072704
+  },
+  {
+    "name": "Styrofoam/Position_Styrofoam.xml",
+    "size_bytes": 12659133,
+    "crc32": 3175901891
+  },
+  {
+    "name": "Tarp/Accel_Tarp.xml",
+    "size_bytes": 12206614,
+    "crc32": 1727063736
+  },
+  {
+    "name": "Tarp/Force_Tarp.xml",
+    "size_bytes": 15208137,
+    "crc32": 2841854512
+  },
+  {
+    "name": "Tarp/Position_Tarp.xml",
+    "size_bytes": 12672068,
+    "crc32": 1826426980
+  },
+  {
+    "name": "Terra Cotta/Accel_Terra Cotta.xml",
+    "size_bytes": 12209710,
+    "crc32": 2657650336
+  },
+  {
+    "name": "Terra Cotta/Force_Terra Cotta.xml",
+    "size_bytes": 15192708,
+    "crc32": 3237466418
+  },
+  {
+    "name": "Terra Cotta/Position_Terra Cotta.xml",
+    "size_bytes": 12653056,
+    "crc32": 1916774309
+  },
+  {
+    "name": "Textured Cloth/Accel_Textured Cloth.xml",
+    "size_bytes": 12200061,
+    "crc32": 875784288
+  },
+  {
+    "name": "Textured Cloth/Force_Textured Cloth.xml",
+    "size_bytes": 15190251,
+    "crc32": 2588678389
+  },
+  {
+    "name": "Textured Cloth/Position_Textured Cloth.xml",
+    "size_bytes": 12663052,
+    "crc32": 3617250844
+  },
+  {
+    "name": "Textured Metal/Accel_Textured Metal.xml",
+    "size_bytes": 12275577,
+    "crc32": 1594044840
+  },
+  {
+    "name": "Textured Metal/Force_Textured Metal.xml",
+    "size_bytes": 15236828,
+    "crc32": 2264067037
+  },
+  {
+    "name": "Textured Metal/Position_Textured Metal.xml",
+    "size_bytes": 12632561,
+    "crc32": 4247217218
+  },
+  {
+    "name": "Textured Paper/Accel_Textured Paper.xml",
+    "size_bytes": 12201041,
+    "crc32": 393760270
+  },
+  {
+    "name": "Textured Paper/Force_Textured Paper.xml",
+    "size_bytes": 15197326,
+    "crc32": 1209771713
+  },
+  {
+    "name": "Textured Paper/Position_Textured Paper.xml",
+    "size_bytes": 12645281,
+    "crc32": 1920591805
+  },
+  {
+    "name": "Textured Rubber/Accel_Textured Rubber.xml",
+    "size_bytes": 12201114,
+    "crc32": 3761388914
+  },
+  {
+    "name": "Textured Rubber/Force_Textured Rubber.xml",
+    "size_bytes": 15201222,
+    "crc32": 3291827436
+  },
+  {
+    "name": "Textured Rubber/Position_Textured Rubber.xml",
+    "size_bytes": 12653026,
+    "crc32": 2556140078
+  },
+  {
+    "name": "Tissue Paper/Accel_Tissue Paper.xml",
+    "size_bytes": 12204589,
+    "crc32": 4243398298
+  },
+  {
+    "name": "Tissue Paper/Force_Tissue Paper.xml",
+    "size_bytes": 15199722,
+    "crc32": 2400316462
+  },
+  {
+    "name": "Tissue Paper/Position_Tissue Paper.xml",
+    "size_bytes": 12651667,
+    "crc32": 1419212209
+  },
+  {
+    "name": "Towel/Accel_Towel.xml",
+    "size_bytes": 12205305,
+    "crc32": 401030164
+  },
+  {
+    "name": "Towel/Force_Towel.xml",
+    "size_bytes": 15199625,
+    "crc32": 1265185764
+  },
+  {
+    "name": "Towel/Position_Towel.xml",
+    "size_bytes": 12690453,
+    "crc32": 657346344
+  },
+  {
+    "name": "Velcro Hooks/Accel_Velcro Hooks.xml",
+    "size_bytes": 12209890,
+    "crc32": 258359946
+  },
+  {
+    "name": "Velcro Hooks/Force_Velcro Hooks.xml",
+    "size_bytes": 15197109,
+    "crc32": 3177963971
+  },
+  {
+    "name": "Velcro Hooks/Position_Velcro Hooks.xml",
+    "size_bytes": 12661455,
+    "crc32": 2513588112
+  },
+  {
+    "name": "Velcro Loops/Accel_Velcro Loops.xml",
+    "size_bytes": 12206415,
+    "crc32": 654652519
+  },
+  {
+    "name": "Velcro Loops/Force_Velcro Loops.xml",
+    "size_bytes": 15200203,
+    "crc32": 3809055102
+  },
+  {
+    "name": "Velcro Loops/Position_Velcro Loops.xml",
+    "size_bytes": 12625817,
+    "crc32": 1950611546
+  },
+  {
+    "name": "Velvet/Accel_Velvet.xml",
+    "size_bytes": 12201131,
+    "crc32": 3308441787
+  },
+  {
+    "name": "Velvet/Force_Velvet.xml",
+    "size_bytes": 15206083,
+    "crc32": 198609851
+  },
+  {
+    "name": "Velvet/Position_Velvet.xml",
+    "size_bytes": 12676533,
+    "crc32": 911448915
+  },
+  {
+    "name": "Vinyl 1/Accel_Vinyl 1.xml",
+    "size_bytes": 12200694,
+    "crc32": 2347211163
+  },
+  {
+    "name": "Vinyl 1/Force_Vinyl 1.xml",
+    "size_bytes": 15200666,
+    "crc32": 422829244
+  },
+  {
+    "name": "Vinyl 1/Position_Vinyl 1.xml",
+    "size_bytes": 12677602,
+    "crc32": 1938468370
+  },
+  {
+    "name": "Vinyl 2/Accel_Vinyl 2.xml",
+    "size_bytes": 12212093,
+    "crc32": 1984768209
+  },
+  {
+    "name": "Vinyl 2/Force_Vinyl 2.xml",
+    "size_bytes": 15194223,
+    "crc32": 1235472355
+  },
+  {
+    "name": "Vinyl 2/Position_Vinyl 2.xml",
+    "size_bytes": 12667323,
+    "crc32": 1416606164
+  },
+  {
+    "name": "Wavy Acrylic/Accel_Wavy Acrylic.xml",
+    "size_bytes": 12214192,
+    "crc32": 651509819
+  },
+  {
+    "name": "Wavy Acrylic/Force_Wavy Acrylic.xml",
+    "size_bytes": 15209163,
+    "crc32": 2101914587
+  },
+  {
+    "name": "Wavy Acrylic/Position_Wavy Acrylic.xml",
+    "size_bytes": 12661416,
+    "crc32": 2395459236
+  },
+  {
+    "name": "Wax Paper/Accel_Wax Paper.xml",
+    "size_bytes": 12201831,
+    "crc32": 2246122388
+  },
+  {
+    "name": "Wax Paper/Force_Wax Paper.xml",
+    "size_bytes": 15204159,
+    "crc32": 2014186465
+  },
+  {
+    "name": "Wax Paper/Position_Wax Paper.xml",
+    "size_bytes": 12657816,
+    "crc32": 3103325521
+  },
+  {
+    "name": "Whiteboard/Accel_Whiteboard.xml",
+    "size_bytes": 12200208,
+    "crc32": 711204447
+  },
+  {
+    "name": "Whiteboard/Force_Whiteboard.xml",
+    "size_bytes": 15207375,
+    "crc32": 214563925
+  },
+  {
+    "name": "Whiteboard/Position_Whiteboard.xml",
+    "size_bytes": 12664012,
+    "crc32": 2437209038
+  },
+  {
+    "name": "Whiteboard Eraser/Accel_Whiteboard Eraser.xml",
+    "size_bytes": 12202921,
+    "crc32": 2558340282
+  },
+  {
+    "name": "Whiteboard Eraser/Force_Whiteboard Eraser.xml",
+    "size_bytes": 15185152,
+    "crc32": 3901217386
+  },
+  {
+    "name": "Whiteboard Eraser/Position_Whiteboard Eraser.xml",
+    "size_bytes": 12669922,
+    "crc32": 2745594989
+  },
+  {
+    "name": "Wood/Accel_Wood.xml",
+    "size_bytes": 12204558,
+    "crc32": 2499812603
+  },
+  {
+    "name": "Wood/Force_Wood.xml",
+    "size_bytes": 15197156,
+    "crc32": 887441264
+  },
+  {
+    "name": "Wood/Position_Wood.xml",
+    "size_bytes": 12658610,
+    "crc32": 881196053
+  }
+]

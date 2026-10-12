@@ -1,0 +1,12 @@
+{
+  "status": "not_verified",
+  "source_kind": "real",
+  "rig_id": null,
+  "contact_pair": {"pad_material": null, "pad_geometry": null, "surface_preparation": null, "sensor_mounting": null},
+  "force_uncertainty_n": null,
+  "timing_residual_s": null,
+  "position_uncertainty_m": null,
+  "native_rates_hz": {"force": null, "motion": null, "tactile": null},
+  "evidence_required": ["known_load_scale_zero_and_cross_axis", "timestamp_offset_drift_and_filter_delay", "actual_interface_sliding", "repeatability_wear_and_cleaning", "free_motion_capability"],
+  "note": "Fill from real measurements. Do not mark verified from documentation or synthetic checks."
+}

@@ -1,0 +1,375 @@
+{
+  "source": "https://repository.upenn.edu/server/api/core/bitstreams/dd454e74-5039-4a3c-baea-3b1894387b74/content",
+  "content_range": "bytes 575152985-575218520/575218521",
+  "requested_materials": [
+    "ABSPlastic",
+    "Aluminum",
+    "Book"
+  ],
+  "raw_data_redistributed": false,
+  "measurement_gate": "not_passed",
+  "unresolved": [
+    "native channel rates",
+    "force calibration and uncertainty",
+    "force sign/frame convention",
+    "cross-channel timing",
+    "independent trial identity",
+    "verified sliding"
+  ],
+  "files": [
+    {
+      "name": "ABS Plastic/Accel_ABS Plastic.xml",
+      "sha256": "09da859f339c744e342d1e0e0f01dd7be0edc07885269be9f4bb756117d9f834",
+      "size_bytes": 12246286,
+      "fields": {
+        "root_tag": "AccelData",
+        "root_attributes": {
+          "texture": "0"
+        },
+        "AccelUnits": "m/s^2",
+        "SampleRate": "10000",
+        "Accel": {
+          "count": 100000,
+          "finite": true,
+          "min": -30.502573,
+          "max": 58.372147
+        },
+        "Accel_x": {
+          "count": 100000,
+          "finite": true,
+          "min": -43.319278,
+          "max": 19.916438
+        },
+        "Accel_y": {
+          "count": 100000,
+          "finite": true,
+          "min": -33.759365,
+          "max": 47.375677
+        },
+        "Accel_z": {
+          "count": 100000,
+          "finite": true,
+          "min": -23.976373,
+          "max": 42.303783
+        }
+      }
+    },
+    {
+      "name": "ABS Plastic/Force_ABS Plastic.xml",
+      "sha256": "d5c205cfd2016d1d4528a5879c4a96eeebdf29b2d3c15c490852f0fb1b8a5af7",
+      "size_bytes": 15196119,
+      "fields": {
+        "root_tag": "ForceData",
+        "root_attributes": {
+          "texture": "0"
+        },
+        "ForceUnits": "N",
+        "SampleRate": "10000",
+        "ForceNormal": {
+          "count": 100000,
+          "finite": true,
+          "min": 0.550737,
+          "max": 6.958951
+        },
+        "ForceTangential": {
+          "count": 100000,
+          "finite": true,
+          "min": -1.021299,
+          "max": 2.726992
+        },
+        "Force_x": {
+          "count": 100000,
+          "finite": true,
+          "min": -1.4512,
+          "max": 1.764023
+        },
+        "Force_y": {
+          "count": 100000,
+          "finite": true,
+          "min": -1.915556,
+          "max": 2.028515
+        },
+        "Force_z": {
+          "count": 100000,
+          "finite": true,
+          "min": -6.907321,
+          "max": -0.552051
+        }
+      }
+    },
+    {
+      "name": "ABS Plastic/Position_ABS Plastic.xml",
+      "sha256": "51d6643e2bdd66b71701c0c1acfae08bcad7a47b9420cf64a141d199ab6d1990",
+      "size_bytes": 12666176,
+      "fields": {
+        "root_tag": "PositionData",
+        "root_attributes": {
+          "texture": "0"
+        },
+        "SpeedUnits": "mm/s",
+        "PositionUnits": "mm",
+        "SampleRate": "10000",
+        "Speed": {
+          "count": 100000,
+          "finite": true,
+          "min": 21.14926,
+          "max": 263.815109
+        },
+        "Position_x": {
+          "count": 100000,
+          "finite": true,
+          "min": 103.803329,
+          "max": 157.045986
+        },
+        "Position_y": {
+          "count": 100000,
+          "finite": true,
+          "min": 262.498055,
+          "max": 320.315481
+        },
+        "Position_z": {
+          "count": 100000,
+          "finite": true,
+          "min": 47.849848,
+          "max": 51.28944
+        }
+      }
+    },
+    {
+      "name": "Aluminum/Accel_Aluminum.xml",
+      "sha256": "016c5e94aeef4b097590e63a159234add8b2a1084bac78268b255eb5d113271a",
+      "size_bytes": 12200240,
+      "fields": {
+        "root_tag": "AccelData",
+        "root_attributes": {
+          "texture": "2"
+        },
+        "AccelUnits": "m/s^2",
+        "SampleRate": "10000",
+        "Accel": {
+          "count": 100000,
+          "finite": true,
+          "min": -16.095437,
+          "max": 22.15674
+        },
+        "Accel_x": {
+          "count": 100000,
+          "finite": true,
+          "min": -9.323468,
+          "max": 8.428578
+        },
+        "Accel_y": {
+          "count": 100000,
+          "finite": true,
+          "min": -6.216158,
+          "max": 7.33827
+        },
+        "Accel_z": {
+          "count": 100000,
+          "finite": true,
+          "min": -12.049841,
+          "max": 19.961142
+        }
+      }
+    },
+    {
+      "name": "Aluminum/Force_Aluminum.xml",
+      "sha256": "c183c70d0c0c10ef5880856bfa9594e989720feeac5ad39bea66238100407ea8",
+      "size_bytes": 15191213,
+      "fields": {
+        "root_tag": "ForceData",
+        "root_attributes": {
+          "texture": "2"
+        },
+        "ForceUnits": "N",
+        "SampleRate": "10000",
+        "ForceNormal": {
+          "count": 100000,
+          "finite": true,
+          "min": 0.081128,
+          "max": 5.111535
+        },
+        "ForceTangential": {
+          "count": 100000,
+          "finite": true,
+          "min": -0.311905,
+          "max": 2.510613
+        },
+        "Force_x": {
+          "count": 100000,
+          "finite": true,
+          "min": -1.456895,
+          "max": 1.492955
+        },
+        "Force_y": {
+          "count": 100000,
+          "finite": true,
+          "min": -1.260014,
+          "max": 2.036101
+        },
+        "Force_z": {
+          "count": 100000,
+          "finite": true,
+          "min": -5.083418,
+          "max": -0.083093
+        }
+      }
+    },
+    {
+      "name": "Aluminum/Position_Aluminum.xml",
+      "sha256": "915af57c540fec56fc4fcb2b1eca8ecef4883cbd65fa1fce90ed7af0ccce314b",
+      "size_bytes": 12654151,
+      "fields": {
+        "root_tag": "PositionData",
+        "root_attributes": {
+          "texture": "2"
+        },
+        "SpeedUnits": "mm/s",
+        "PositionUnits": "mm",
+        "SampleRate": "10000",
+        "Speed": {
+          "count": 100000,
+          "finite": true,
+          "min": 28.538441,
+          "max": 234.887088
+        },
+        "Position_x": {
+          "count": 100000,
+          "finite": true,
+          "min": 122.437166,
+          "max": 165.93057
+        },
+        "Position_y": {
+          "count": 100000,
+          "finite": true,
+          "min": 267.05757,
+          "max": 318.438236
+        },
+        "Position_z": {
+          "count": 100000,
+          "finite": true,
+          "min": 49.145221,
+          "max": 53.910771
+        }
+      }
+    },
+    {
+      "name": "Book/Accel_Book.xml",
+      "sha256": "5605e4e5b1053ab51e4dc9caf40d1c4ab2f85d50049513164d103f3e88a8d756",
+      "size_bytes": 12198401,
+      "fields": {
+        "root_tag": "AccelData",
+        "root_attributes": {
+          "texture": "7"
+        },
+        "AccelUnits": "m/s^2",
+        "SampleRate": "10000",
+        "Accel": {
+          "count": 100000,
+          "finite": true,
+          "min": -11.804618,
+          "max": 14.076137
+        },
+        "Accel_x": {
+          "count": 100000,
+          "finite": true,
+          "min": -9.431622,
+          "max": 10.343125
+        },
+        "Accel_y": {
+          "count": 100000,
+          "finite": true,
+          "min": -10.762245,
+          "max": 9.468209
+        },
+        "Accel_z": {
+          "count": 100000,
+          "finite": true,
+          "min": -6.421482,
+          "max": 6.230507
+        }
+      }
+    },
+    {
+      "name": "Book/Force_Book.xml",
+      "sha256": "86750efed28ca20f3f84aaa903e7f3ff3cbdf0bc3aafb9451f619cc89e6270f6",
+      "size_bytes": 15190742,
+      "fields": {
+        "root_tag": "ForceData",
+        "root_attributes": {
+          "texture": "7"
+        },
+        "ForceUnits": "N",
+        "SampleRate": "10000",
+        "ForceNormal": {
+          "count": 100000,
+          "finite": true,
+          "min": 0.064373,
+          "max": 4.685515
+        },
+        "ForceTangential": {
+          "count": 100000,
+          "finite": true,
+          "min": -1.245929,
+          "max": 2.421235
+        },
+        "Force_x": {
+          "count": 100000,
+          "finite": true,
+          "min": -1.60646,
+          "max": 1.463806
+        },
+        "Force_y": {
+          "count": 100000,
+          "finite": true,
+          "min": -1.512868,
+          "max": 1.986713
+        },
+        "Force_z": {
+          "count": 100000,
+          "finite": true,
+          "min": -4.651639,
+          "max": -0.061929
+        }
+      }
+    },
+    {
+      "name": "Book/Position_Book.xml",
+      "sha256": "7be818b6470849fae6a29e53710201c124f9dac6211580a2c40c391dea8a9487",
+      "size_bytes": 12676091,
+      "fields": {
+        "root_tag": "PositionData",
+        "root_attributes": {
+          "texture": "7"
+        },
+        "SpeedUnits": "mm/s",
+        "PositionUnits": "mm",
+        "SampleRate": "10000",
+        "Speed": {
+          "count": 100000,
+          "finite": true,
+          "min": 16.42117,
+          "max": 348.456554
+        },
+        "Position_x": {
+          "count": 100000,
+          "finite": true,
+          "min": 122.498562,
+          "max": 191.907294
+        },
+        "Position_y": {
+          "count": 100000,
+          "finite": true,
+          "min": 298.12857,
+          "max": 371.812187
+        },
+        "Position_z": {
+          "count": 100000,
+          "finite": true,
+          "min": 16.81272,
+          "max": 21.590424
+        }
+      }
+    }
+  ]
+}

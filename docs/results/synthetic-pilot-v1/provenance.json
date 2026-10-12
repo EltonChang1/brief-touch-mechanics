@@ -1,0 +1,38 @@
+{
+  "snapshot_date": "2026-10-12",
+  "source_directory": "runs/synthetic-pilot-v1/evaluation-verified",
+  "source_kind": "synthetic",
+  "physical_claims_allowed": false,
+  "export_notes": "Summary input paths were made repository-relative with forward slashes. Metrics, configuration and hashes are unchanged. Predictions and episodes are byte-for-byte copies. Raw/generated signals stay ignored.",
+  "original_output_sha256": {
+    "summary.json": "2732bad6c65973403f833b331d9f4f0d6e6d1c0573862a71b49741441bfba8ba",
+    "predictions.csv": "5aabcc22cce536f7edcc07718b56bef6466e5486bbc737142d0a18676d2d6d24",
+    "episodes.json": "f10759e7c43a2c9e283ef5d4653100d915fd354832894b63517bdf1436562f6b"
+  },
+  "snapshot_output_sha256": {
+    "summary.json": "df6f3e82cc11bd9a24163f7d84ce3de147ab4c46be4d8dfd7feede4fc226b985",
+    "predictions.csv": "5aabcc22cce536f7edcc07718b56bef6466e5486bbc737142d0a18676d2d6d24",
+    "episodes.json": "f10759e7c43a2c9e283ef5d4653100d915fd354832894b63517bdf1436562f6b"
+  },
+  "initial_run": {
+    "source_directory": "runs/synthetic-pilot-v1/evaluation",
+    "summary_sha256": "015d72446090de4f3d4308c0731d7923ba1847e5c745e36d3ed58542b18bcdec",
+    "metrics_equal_to_verified_run": true
+  },
+  "verification": {
+    "date": "2026-10-12",
+    "recorded_input_hashes_matched": 452,
+    "source_code_hashes_matched": 8,
+    "full_pilot_metrics_reproduced_exactly": true,
+    "predictions_and_episodes_reproduced_byte_for_byte": true,
+    "automated_tests_passed": 16,
+    "test_command": ".venv\\Scripts\\python.exe -m unittest discover -s tests -v"
+  },
+  "counts": {
+    "generated_trials": 450,
+    "held_out_groups": 10,
+    "query_trials_per_group": 16,
+    "unique_query_trials": 160,
+    "prediction_rows": 1280
+  }
+}

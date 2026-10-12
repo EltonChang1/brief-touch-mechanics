@@ -1,8 +1,10 @@
 # Brief-Touch Mechanics: Methods and Research Review
 
-**Reviewed: 10 October 2026. Status: proposed design; no mechanical dataset has passed the access/calibration gate and no experiment results are claimed.**
+**Reviewed: 10 October 2026; status updated: 12 October 2026. The force-pilot software and HaTT access/schema audit are implemented; calibration and timing remain unverified. No real force-prediction, motion or robot-task result is claimed.**
 
-This document supports the [plain-language README](../README.md). Published findings below are distinguished from our design choices. The proposed protocol refines the existing [Stage B/C plan](https://github.com/EltonChang1/tactile-contact-research/blob/c6fee1245a86bd45c3a6bcbe16c838e1b4a4c5d9/docs/research_plan.md) and [implementation guide](https://github.com/EltonChang1/tactile-contact-research/blob/c6fee1245a86bd45c3a6bcbe16c838e1b4a4c5d9/docs/implementation_guide.md); it does not establish that collection, calibration or mechanics software is complete.
+This document supports the [concise project report](../README.md). Published findings below are distinguished from our design choices. The proposed protocol refines the existing [Stage B/C plan](https://github.com/EltonChang1/tactile-contact-research/blob/c6fee1245a86bd45c3a6bcbe16c838e1b4a4c5d9/docs/research_plan.md) and [implementation guide](https://github.com/EltonChang1/tactile-contact-research/blob/c6fee1245a86bd45c3a6bcbe16c838e1b4a4c5d9/docs/implementation_guide.md). The [execution report](execution-report.md) records the implemented software, synthetic checks and bounded real-data audit; physical collection and validation remain pending.
+
+The [execution plan](experiment-plan.md) turns this review into a staged protocol with a primary baseline, trial allocations, draft practical thresholds and a schedule. Its targets remain provisional until measurement/pilot checks and must be frozen before held-out confirmation.
 
 ## 1. The question and the claim
 
@@ -33,17 +35,17 @@ These are precedents for feasibility. Our contribution is a controlled study of 
 
 ## 3. Data and equipment: the first decision
 
-The following is a documentation review, not a raw-data validation. No archives were downloaded for this review. A published collection setup or download link does not establish that the released files provide calibrated, aligned channels usable for our protocol.
+The candidate descriptions below originated in the documentation review. A subsequent bounded HaTT audit established official source access and verified file schemas for three development surfaces, as recorded in the [execution report](execution-report.md). A published collection setup, download link or valid schema does not establish that the released files provide calibrated, aligned channels usable for our protocol.
 
 | Candidate | What the primary documentation describes | Suitable use and unresolved issues |
 | --- | --- | --- |
-| [Penn Haptic Texture Toolkit (HaTT), author project page](https://heatherculbertson.wixsite.com/home/research), [official manual](https://repository.upenn.edu/bitstreams/960863b6-df14-4770-9068-b1b2bf6a50f1/download) | 100 surfaces, two ten-second freehand recordings each; acceleration, force and position/speed; fixed steel hemispherical tip. | Strongest documented paired-channel candidate for an offline pilot. Direct UPenn fetch returned HTTP 403 during review. Access, exact license, native rates/calibration and alignment remain unverified. Two uncontrolled scans cannot supply our full controlled trial grid or free-motion validation. |
+| [Penn Haptic Texture Toolkit (HaTT), author project page](https://heatherculbertson.wixsite.com/home/research), [official manual](https://repository.upenn.edu/bitstreams/960863b6-df14-4770-9068-b1b2bf6a50f1/download) | 100 surfaces, two ten-second freehand recordings each; acceleration, force and position/speed; fixed steel hemispherical tip. | Official access succeeded after the initial web-reading failure. The audit inspected nine XML files for ABS Plastic, Aluminum and Book, preserved the license/manual and verified declared units, counts and finite values. Native rates, calibration, timing, force frame, independent trial relationships and sliding remain unverified. The inspected model archive cannot supply our controlled trial grid or free-motion validation. |
 | [HapTex, BUAA](https://haptic.buaa.edu.cn/English_FabricDatabase.htm), [author paper](https://haptic.buaa.edu.cn/dfiles/2019/17.pdf) | 120 fabrics; fingertip friction/normal force, displacement and derived velocity; four strokes per fabric. | Possible force-informed fallback. Human finger contact, limited controlled variation and no separate acceleration channel restrict the claim. Archive contents and redistribution terms remain unverified. |
 | [LMT official dictionary](https://zeus.lkn.ei.tum.de/downloads/texture/download/Readme.txt), [release portal](https://zeus.lkn.ei.tum.de/downloads/texture/) | Latest dictionary lists normal/friction force, acceleration and audio; force fields are under FSR friction. | Motion fields are not listed in that dictionary. Force calibration, units, alignment and trial roles need verification. Do not combine older controlled-release procedures with the latest release schema. |
 | [Current Cluster recordings](https://github.com/cluster-lab/Cluster-Haptic-Texture-Dataset/blob/main/documents/dataset_details.md), [author paper](https://arxiv.org/html/2407.16206v4) | Acceleration, pressing-force and probe-position recordings; separate friction-property measurements. | The earlier vibration study's data do not supply synchronized per-scan tangential-force targets. Separately measured coefficients with another counterface/condition cannot substitute for those targets. Existing timing uncertainty also remains unresolved. |
 | [MIT planar pushing dataset](https://web.mit.edu/mcube/push-dataset/) | Time-stamped pusher/object poses and planar forces, varied conditions and repeated pushes. | Optional separate force/motion benchmark without paired texture-touch sensing. The site states its measurement streams are not synchronized; alignment must be checked. Access, license and loading assumptions need inspection. This would change the experiment's scope. |
 
-**Recommended route:** check HaTT access and a small development subset for inexpensive force-model feasibility. In parallel, identify an existing fixed-probe rig for the controlled experiment and eventual motion stage. If only force-only data are suitable, label that result as force-informed calibration. Revise the protocol before scoring data when the available measurements differ from the proposed design.
+**Next route:** resolve the HaTT measurement evidence and independent trial relationships, and identify an existing fixed-probe rig for the controlled experiment and eventual motion stage. The access/schema audit alone does not permit force scoring. If only force-only data are suitable, label that result as force-informed calibration. Revise and freeze an offline protocol before scoring data when the available measurements differ from the proposed design.
 
 The access report should record actual files, native channel rates, units, signs, timestamps, geometry, calibration provenance, independent trial identities, condition coverage and permitted use. Sampling at a common stored rate does not prove a common native bandwidth. Publish download instructions and permissible derived results; verify terms before redistributing raw data.
 
@@ -142,7 +144,7 @@ If motion improves, use one dragging-to-target task with the same controller and
 
 ## 9. What to produce and when to proceed
 
-All outputs below are future deliverables, not existing executable commands.
+The table describes physical-study deliverables. Official HaTT access/schema checks and the synthetic force-pilot software exercise are complete; calibration, physical force scoring and the later validation gates remain open. See the [execution report](execution-report.md) for completed work and the [run guide](running-experiment.md) for available commands.
 
 | Gate | Required output | Decision |
 | --- | --- | --- |
@@ -155,6 +157,6 @@ All outputs below are future deliverables, not existing executable commands.
 
 If data access is unavailable, software tests with synthetic data can check signs, units, support boundaries and numerical consistency, but real usefulness remains untested. If force calibration helps while tactile inference does not, report both findings separately. If force errors improve but motion does not, investigate solver assumptions, loading, drag and contact transitions before claiming a world-model benefit.
 
-The immediate deliverable is the access and measurement audit. The existing vibration study can continue independently; an AI victory there is not a prerequisite for this mechanical experiment.
+The immediate deliverable is the remaining measurement audit: calibration, timing, verified sliding, trial independence and rig capability. The existing vibration study can continue independently; an AI victory there is not a prerequisite for this mechanical experiment.
 
 See the [origin note](origin.md) for the source commit and original document hashes.

@@ -6,6 +6,8 @@ __pycache__/
 data/
 runs/
 results/
+# Publish reviewed result snapshots; keep working data and runs ignored.
+!docs/results/
 *.tmp
 .env
 .env.*

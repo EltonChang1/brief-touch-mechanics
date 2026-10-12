@@ -1,0 +1,18 @@
+{
+  "snapshot_date": "2026-10-12",
+  "source_directory": "data/hatt-audit",
+  "export_notes": "Metadata-only snapshots of the source access/schema audit and archive index. No XML recordings, toolkit code, source manual or license text is redistributed.",
+  "raw_data_redistributed": false,
+  "measurement_gate": "not_passed",
+  "snapshot_output_sha256": {
+    "audit.json": "b9248321a64916f6927521170e435ba472eed8f8247769b4848f208a8ffdf0db",
+    "archive-index.json": "43bba283ad36cf9c1b2c35af5cd236f1cd7c2ffe4b0f7bbe1da23d54d17f387d"
+  },
+  "verification": {
+    "date": "2026-10-12",
+    "cached_xml_hashes_sizes_and_crcs_matched": 9
+  },
+  "attribution": "Heather Culbertson, Juan Jose Lopez Delgado, and Katherine J. Kuchenbecker. One Hundred Data-Driven Haptic Texture Models and Open-Source Methods for Rendering on 3D Objects. IEEE Haptics Symposium, 2014.",
+  "source_record": "https://repository.upenn.edu/items/c1b8168b-b8a7-4f22-9e38-6430c233a600",
+  "original_license": "https://repository.upenn.edu/bitstreams/c3c70778-1c6e-412b-8e99-8c5e57aa7a33/download"
+}

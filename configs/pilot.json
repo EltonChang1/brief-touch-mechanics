@@ -1,0 +1,19 @@
+{
+  "phase": "pilot",
+  "support_seconds": 0.5,
+  "speeds_m_s": [0.05, 0.15, 0.3],
+  "loads_n": [1.0, 2.0, 4.0],
+  "reference_speed_m_s": 0.15,
+  "reference_load_n": 2.0,
+  "repetitions": 5,
+  "min_load_n": 0.2,
+  "min_sliding_speed_m_s": 0.01,
+  "ridge_alpha": 1.0,
+  "spectral_bands_hz": [[10, 50], [50, 150], [150, 400]],
+  "bootstrap_repetitions": 2000,
+  "seed": 20261010,
+  "force_relative_improvement_target": 0.25,
+  "force_absolute_improvement_n": 0.02,
+  "force_mae_target_n": 0.1,
+  "threshold_status": "provisional"
+}

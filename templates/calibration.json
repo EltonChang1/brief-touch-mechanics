@@ -1,0 +1,10 @@
+{
+  "calibration_id": "REPLACE_WITH_BENCH_CALIBRATION_ID",
+  "status": "template_not_a_verified_calibration",
+  "force_output_frame": "force_on_moving_body",
+  "columns": {"time": "time_s", "normal": "normal_raw", "tangential": "tangential_raw", "velocity": "velocity_mm_s", "tactile": "acceleration_m_s2"},
+  "force_matrix_n_per_raw": [[1.0, 0.0], [0.0, -1.0]],
+  "force_bias_n": [0.0, 0.0],
+  "scales_to_si": {"time": 1.0, "velocity": 0.001, "tactile": 1.0},
+  "note": "Illustrative conversion only. Replace matrix/bias with verified bench values and determine fixture-force sign from the actual mounting. Conversion does not pass the measurement gate."
+}

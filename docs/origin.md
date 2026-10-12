@@ -11,6 +11,6 @@ The experiment design and literature review were first written in [tactile-conta
 
 The initial documents retain their research findings and proposed methods. Links were adapted for this repository, and the distinction between the earlier implemented study and this proposed experiment was made explicit.
 
-Original experiment code, raw data, trained models and validation results were not copied. The earlier study's passing tests and reproduced results belong to that study. Force calibration, mechanical collection, prediction methods and motion validation here remain future work.
+Original experiment code, raw data, trained models and validation results were not copied. The earlier study's passing tests and reproduced results belong to that study. This repository has since implemented its own ingestion, force estimators, grouped pilot evaluation and analytical motion primitives, exercised them on synthetic data, and completed a bounded official HaTT access/schema audit. The [execution report](execution-report.md) records that work. Bench calibration, controlled mechanical collection, real force scoring and physical motion/task validation remain pending.
 
-Start with the [README](../README.md) and [methods](methods.md). The first milestone is confirming suitable force, motion and tactile measurements.
+Start with the [README](../README.md) and [methods](methods.md). The next milestone is verifying calibration, timing, sliding and independent trial relationships for suitable force, motion and tactile measurements.
